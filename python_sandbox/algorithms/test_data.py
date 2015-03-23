@@ -1,0 +1,1 @@
+ten_strings = ['Paul', 'John', 'Abe', 'Frank', 'Peter', 'Sam', 'Jim', 'Tony', 'Will', 'Carl']
