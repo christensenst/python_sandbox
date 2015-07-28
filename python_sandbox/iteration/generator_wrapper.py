@@ -13,5 +13,6 @@ class GeneratorWrapper(object):
 
 if __name__ == '__main__':
     thing = GeneratorWrapper(['a', 'b', 'c', 'd', 'e', 'f'])
+    # should print b, d, f
     for x in thing.iterator():
         print x
