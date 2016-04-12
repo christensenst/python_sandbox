@@ -44,6 +44,13 @@ if __name__ == "__main__":
     Entering test_function2
     Inside test_function2
     Exited test_function2
+    Entering no_return_something
+    doesn't return anything
+    Exited no_return_something
+    Entering does_return_something
+    this thing returns something
+    Exited does_return_something
+    printing result: the cool string
     new_f
     """
     test_function1()
